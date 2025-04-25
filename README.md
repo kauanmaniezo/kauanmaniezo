@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Kauan Maniezo.
 
-<!--
-**kauanmaniezo/kauanmaniezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na Unicesumar  
+💻 Apaixonado por tecnologia, programação e desenvolvimento de soluções inteligentes  
+📍 Atualmente focado em aprender desenvolvimento web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+Sou um futuro engenheiro de software em constante aprendizado. Gosto de resolver problemas com código limpo, pensar em soluções escaláveis e explorar novas ferramentas.
+
+## 📫 Contato
+
+- [LinkedIn] //www.linkedin.com/in/kauan-maniezo-15578a362/
+- Email: kauanmaniezo@gmail.com
