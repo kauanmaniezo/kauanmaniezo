@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nosso Amor ❤️</title>
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+        text-align: center;
+        color: #fff;
+    }
+
+    header {
+        padding: 30px;
+        font-size: 2.5em;
+        font-weight: bold;
+    }
+
+    .container {
+        padding: 20px;
+    }
+
+    img {
+        width: 300px;
+        border-radius: 20px;
+        margin: 15px;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    }
+
+    .text {
+        font-size: 1.2em;
+        max-width: 600px;
+        margin: 20px auto;
+        line-height: 1.6;
+    }
+
+    footer {
+        margin-top: 30px;
+        padding: 20px;
+        font-size: 1em;
+    }
+
+    button {
+        background: #ff4d6d;
+        border: none;
+        padding: 15px 25px;
+        font-size: 1em;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background: #ff1e4d;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    Nosso Amor 💖
+</header>
+
+<div class="container">
+
+    <img src="foto1.jpg" alt="Nós dois">
+    <img src="foto2.jpg" alt="Nosso momento">
+
+    <div class="text">
+        Cada momento ao seu lado é especial. ❤️<br>
+        Você é a melhor parte dos meus dias, minha alegria e meu amor.
+        <br><br>
+        Prometo sempre cuidar de você, te fazer sorrir e estar ao seu lado em todos os momentos.
+    </div>
+
+    <button onclick="tocarMusica()">Tocar nossa música 🎶</button>
+
+</div>
+
+<footer>
+    Feito com amor 💘
+</footer>
+
+<audio id="musica">
+    <source src="musica.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+function tocarMusica() {
+    document.getElementById('musica').play();
+}
+</script>
+
+</body>
+</html>
